@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Wireless Headphones",
+      "ar": "سماعات لاسلكية"
+    },
+    "description": {
+      "en": "Over-ear Bluetooth wireless headphones with active noise cancellation, plush memory-foam cushions and up to 30 hours of battery life. Fold-flat design with a carrying case for travel.",
+      "ar": "سماعات رأس لاسلكية تعمل بالبلوتوث مع خاصية إلغاء الضوضاء النشطة ووسائد مريحة من الإسفنج الطبي وعمر بطارية يصل إلى 30 ساعة. تصميم قابل للطي مع حقيبة حمل مناسبة للسفر."
+    },
+    "price": 79.99,
+    "category": {
+      "en": "Electronics",
+      "ar": "إلكترونيات"
+    },
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.58&fp-z=1.45",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Smart Watch",
+      "ar": "ساعة ذكية"
+    },
+    "description": {
+      "en": "Fitness-focused smart watch with heart-rate monitoring, built-in GPS and sleep tracking. Water-resistant up to 50 metres with an always-on AMOLED display.",
+      "ar": "ساعة ذكية مخصصة للياقة البدنية مع مراقبة معدل نبضات القلب ونظام تحديد المواقع المدمج وتتبع النوم. مقاومة للماء حتى عمق 50 متراً مع شاشة AMOLED تعمل دائماً."
+    },
+    "price": 199.99,
+    "category": {
+      "en": "Electronics",
+      "ar": "إلكترونيات"
+    },
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.5&fp-z=1.15",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "14-inch Ultrabook Laptop",
+      "ar": "حاسوب محمول خفيف 14 بوصة"
+    },
+    "description": {
+      "en": "Slim 14-inch laptop with a high-resolution display, 16 GB of RAM and a 512 GB SSD. A backlit keyboard and all-day battery make it ideal for work and study.",
+      "ar": "حاسوب محمول نحيف بشاشة 14 بوصة عالية الدقة وذاكرة 16 جيجابايت وقرص SSD بسعة 512 جيجابايت. لوحة مفاتيح بإضاءة خلفية وبطارية تدوم طوال اليوم، مثالي للعمل والدراسة."
+    },
+    "price": 1299.0,
+    "category": {
+      "en": "Electronics",
+      "ar": "إلكترونيات"
+    },
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1600&q=80&fit=crop",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Portable Bluetooth Speaker",
+      "ar": "مكبر صوت بلوتوث محمول"
+    },
+    "description": {
+      "en": "Rugged portable speaker with deep bass and 360° sound. Waterproof and dustproof with up to 12 hours of playtime on a single charge.",
+      "ar": "مكبر صوت محمول متين بصوت جهير عميق وصوت محيطي 360 درجة. مقاوم للماء والغبار مع تشغيل يصل إلى 12 ساعة بشحنة واحدة."
+    },
+    "price": 59.5,
+    "category": {
+      "en": "Electronics",
+      "ar": "إلكترونيات"
+    },
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=1600&q=80&fit=crop",
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Instant Camera",
+      "ar": "كاميرا فورية"
+    },
+    "description": {
+      "en": "Retro-style instant camera that prints credit-card-sized photos in seconds. Includes automatic exposure, a built-in flash and a selfie mirror.",
+      "ar": "كاميرا فورية بتصميم كلاسيكي تطبع صوراً بحجم البطاقة خلال ثوانٍ. تتضمن ضبطاً تلقائياً للإضاءة وفلاشاً مدمجاً ومرآة للتصوير الذاتي."
+    },
+    "price": 89.0,
+    "category": {
+      "en": "Electronics",
+      "ar": "إلكترونيات"
+    },
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.52&fp-z=1.7",
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Running Shoes",
+      "ar": "حذاء جري"
+    },
+    "description": {
+      "en": "Lightweight knit running shoes with a responsive foam midsole and a breathable upper. Designed for daily training and long-distance comfort.",
+      "ar": "حذاء جري خفيف الوزن من نسيج محبوك مع نعل أوسط رغوي مرن وجزء علوي يسمح بالتهوية. مصمم للتمارين اليومية والراحة في المسافات الطويلة."
+    },
+    "price": 120.0,
+    "category": {
+      "en": "Fashion",
+      "ar": "أزياء"
+    },
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.55&fp-y=0.5&fp-z=1",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Training Sneakers",
+      "ar": "حذاء رياضي للتمارين"
+    },
+    "description": {
+      "en": "Versatile training sneakers with a stable, grippy outsole for gym workouts. A cushioned heel and secure lace-up fit support lateral movement.",
+      "ar": "حذاء رياضي متعدد الاستخدامات بنعل خارجي ثابت ومانع للانزلاق لتمارين النادي الرياضي. كعب مبطن وأربطة محكمة توفر ثباتاً أثناء الحركات الجانبية."
+    },
+    "price": 95.0,
+    "category": {
+      "en": "Fashion",
+      "ar": "أزياء"
+    },
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.5&fp-z=1.4",
+    "stock": 3
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Everyday Backpack",
+      "ar": "حقيبة ظهر يومية"
+    },
+    "description": {
+      "en": "Water-resistant everyday backpack with a padded 15-inch laptop sleeve and multiple organiser pockets. Ergonomic straps keep it comfortable all day.",
+      "ar": "حقيبة ظهر يومية مقاومة للماء مع جيب مبطن لحاسوب محمول بحجم 15 بوصة وجيوب متعددة للتنظيم. أحزمة مريحة تمنحك الراحة طوال اليوم."
+    },
+    "price": 49.99,
+    "category": {
+      "en": "Accessories",
+      "ar": "إكسسوارات"
+    },
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=1600&q=80&fit=crop",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Classic Sunglasses",
+      "ar": "نظارة شمسية كلاسيكية"
+    },
+    "description": {
+      "en": "Timeless sunglasses with polarised lenses and full UV400 protection. Durable acetate frame with a protective case included.",
+      "ar": "نظارة شمسية بتصميم خالد مع عدسات مستقطبة وحماية كاملة من الأشعة فوق البنفسجية UV400. إطار متين من الأسيتات مع علبة واقية."
+    },
+    "price": 34.99,
+    "category": {
+      "en": "Accessories",
+      "ar": "إكسسوارات"
+    },
+    "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.5&fp-z=1.1",
+    "stock": 30
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Leather Strap Wristwatch",
+      "ar": "ساعة يد بحزام جلدي"
+    },
+    "description": {
+      "en": "Minimalist analogue wristwatch with a rose-gold case and a genuine leather strap. Japanese quartz movement and scratch-resistant mineral glass.",
+      "ar": "ساعة يد تناظرية بتصميم بسيط وهيكل بلون الذهب الوردي وحزام من الجلد الطبيعي. آلية كوارتز يابانية وزجاج معدني مقاوم للخدش."
+    },
+    "price": 149.0,
+    "category": {
+      "en": "Accessories",
+      "ar": "إكسسوارات"
+    },
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.45&fp-z=1.5",
+    "stock": 10
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Canvas Tote Bag",
+      "ar": "حقيبة قماشية"
+    },
+    "description": {
+      "en": "Reusable heavy-duty canvas tote bag with reinforced handles. Roomy enough for groceries, books or a day at the beach.",
+      "ar": "حقيبة قماشية متينة قابلة لإعادة الاستخدام بمقابض مقواة. واسعة بما يكفي للمشتريات أو الكتب أو يوم على الشاطئ."
+    },
+    "price": 19.99,
+    "category": {
+      "en": "Accessories",
+      "ar": "إكسسوارات"
+    },
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=1600&q=80&fit=crop",
+    "stock": 40
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Floral Eau de Parfum",
+      "ar": "عطر زهري أو دو بارفان"
+    },
+    "description": {
+      "en": "Elegant floral eau de parfum with notes of jasmine, rose and warm amber. A long-lasting fragrance in a 100 ml bottle.",
+      "ar": "عطر أو دو بارفان زهري أنيق بنفحات من الياسمين والورد والعنبر الدافئ. عبير يدوم طويلاً في زجاجة بسعة 100 مل."
+    },
+    "price": 74.0,
+    "category": {
+      "en": "Beauty",
+      "ar": "الجمال والعناية"
+    },
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=1600&q=80&fit=crop",
+    "stock": 18
+  },
+  {
+    "id": 13,
+    "name": {
+      "en": "Daily Skincare Set",
+      "ar": "مجموعة العناية اليومية بالبشرة"
+    },
+    "description": {
+      "en": "Complete daily skincare set with a gentle cleanser, hydrating serum and moisturiser. Suitable for all skin types and dermatologist tested.",
+      "ar": "مجموعة متكاملة للعناية اليومية بالبشرة تضم منظفاً لطيفاً وسيروم مرطباً وكريم ترطيب. مناسبة لجميع أنواع البشرة ومختبرة من أطباء الجلدية."
+    },
+    "price": 45.0,
+    "category": {
+      "en": "Beauty",
+      "ar": "الجمال والعناية"
+    },
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.5&fp-z=1",
+    "stock": 14
+  },
+  {
+    "id": 14,
+    "name": {
+      "en": "Wooden Bar Stool",
+      "ar": "كرسي خشبي مرتفع"
+    },
+    "description": {
+      "en": "Solid wood bar stool with a natural finish and a sturdy footrest. A simple, versatile seat for kitchens, counters and studios.",
+      "ar": "كرسي مرتفع من الخشب الصلب بلمسة طبيعية ومسند قدمين متين. مقعد بسيط ومتعدد الاستخدامات للمطابخ والطاولات المرتفعة والاستوديوهات."
+    },
+    "price": 65.0,
+    "category": {
+      "en": "Home",
+      "ar": "المنزل"
+    },
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=1600&h=1600&fit=crop&crop=focalpoint&q=80&fp-x=0.5&fp-y=0.45&fp-z=1.8",
+    "stock": 7
+  },
+  {
+    "id": 15,
+    "name": {
+      "en": "Accent Armchair",
+      "ar": "كرسي بذراعين"
+    },
+    "description": {
+      "en": "Mid-century accent armchair upholstered in soft mustard fabric with solid wooden legs. Adds a warm pop of colour to any living room.",
+      "ar": "كرسي بذراعين بتصميم منتصف القرن مكسو بقماش ناعم بلون الخردل وأرجل من الخشب الصلب. يضيف لمسة لونية دافئة إلى أي غرفة معيشة."
+    },
+    "price": 249.0,
+    "category": {
+      "en": "Home",
+      "ar": "المنزل"
+    },
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=80&fit=crop",
+    "stock": 4
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "المتجر الصغير",
+    "description": "تصفّح كتالوج منتجاتنا وابحث فيه وتسوّق."
+  },
+  "header": {
+    "storeName": "المتجر الصغير",
+    "products": "المنتجات",
+    "cart": "السلة",
+    "cartLabel": "{count, plural, =0 {السلة فارغة} one {السلة، منتج واحد} two {السلة، منتجان} few {السلة، # منتجات} many {السلة، # منتجًا} other {السلة، # منتج}}",
+    "languageLabel": "اللغة",
+    "skipToContent": "الانتقال إلى المحتوى"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "catalog": {
+    "title": "المنتجات",
+    "subtitle": "اكتشف أحدث منتجاتنا.",
+    "resultsCount": "{count, plural, =0 {لا توجد منتجات} one {منتج واحد} two {منتجان} few {# منتجات} many {# منتجًا} other {# منتج}}",
+    "updating": "جارٍ تحديث النتائج…"
+  },
+  "filters": {
+    "label": "تصفية المنتجات",
+    "search": "بحث",
+    "searchPlaceholder": "ابحث باسم المنتج…",
+    "category": "الفئة",
+    "allCategories": "جميع الفئات",
+    "sort": "ترتيب حسب",
+    "sortDefault": "المميزة",
+    "sortAsc": "السعر: من الأقل إلى الأعلى",
+    "sortDesc": "السعر: من الأعلى إلى الأقل",
+    "priceRange": "نطاق السعر",
+    "minPrice": "أقل سعر",
+    "maxPrice": "أعلى سعر",
+    "apply": "تطبيق",
+    "clear": "مسح عوامل التصفية",
+    "invalidPrice": "يجب أن تكون الأسعار صفرًا أو أكثر.",
+    "invalidRange": "لا يمكن أن يكون أقل سعر أكبر من أعلى سعر.",
+    "minPlaceholder": "الأدنى",
+    "maxPlaceholder": "الأعلى"
+  },
+  "product": {
+    "viewDetails": "عرض التفاصيل",
+    "addToCart": "أضف إلى السلة",
+    "added": "تمت الإضافة إلى السلة",
+    "maxInCart": "الحد الأقصى في السلة",
+    "outOfStock": "غير متوفر",
+    "inStock": "متوفر ({count} في المخزون)",
+    "lowStock": "متبقٍ {count} فقط",
+    "inCart": "{count} في السلة",
+    "category": "الفئة",
+    "price": "السعر",
+    "availability": "التوفر",
+    "description": "الوصف",
+    "backToProducts": "العودة إلى المنتجات",
+    "imageUnavailable": "الصورة غير متوفرة",
+    "hoverToZoom": "مرّر المؤشر للتكبير",
+    "inStockShort": "متوفر",
+    "detailsTitle": "تفاصيل المنتج"
+  },
+  "states": {
+    "loading": "جارٍ التحميل…",
+    "emptyTitle": "لم يتم العثور على منتجات",
+    "emptyDescription": "جرّب كلمة بحث مختلفة أو عدّل عوامل التصفية.",
+    "errorTitle": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "networkError": "تعذّر الوصول إلى الخادم. يرجى التحقق من اتصالك والمحاولة مرة أخرى.",
+    "invalidRequest": "بعض عوامل التصفية في هذا الرابط غير صالحة. امسحها لعرض جميع المنتجات.",
+    "serverError": "واجه الخادم مشكلة. يرجى المحاولة مرة أخرى بعد قليل."
+  },
+  "productNotFound": {
+    "title": "المنتج غير موجود",
+    "description": "المنتج الذي تبحث عنه غير موجود أو ربما تمت إزالته."
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "itemCount": "{count, plural, =0 {لا توجد منتجات} one {منتج واحد} two {منتجان} few {# منتجات} many {# منتجًا} other {# منتج}}",
+    "emptyTitle": "سلتك فارغة",
+    "emptyDescription": "يبدو أنك لم تضف أي منتج بعد.",
+    "continueShopping": "متابعة التسوق",
+    "summary": "ملخص الطلب",
+    "totalItems": "إجمالي المنتجات",
+    "subtotal": "المجموع الفرعي",
+    "subtotalPending": "جارٍ الحساب…",
+    "quantity": "الكمية",
+    "increase": "زيادة كمية {name}",
+    "decrease": "تقليل كمية {name}",
+    "remove": "إزالة",
+    "removeItem": "إزالة {name} من السلة",
+    "eachPrice": "{price} للقطعة",
+    "unavailable": "هذا المنتج لم يعد متوفرًا.",
+    "itemError": "تعذّر تحميل هذا المنتج.",
+    "clear": "إفراغ السلة",
+    "checkoutNote": "إتمام الشراء غير متاح في هذا العرض التجريبي.",
+    "unavailableExcluded": "المنتجات غير المتوفرة غير مشمولة في المجموع.",
+    "removeUnavailable": "إزالة المنتجات غير المتوفرة",
+    "clearConfirm": "هل تريد إزالة جميع المنتجات من سلتك؟",
+    "clearConfirmYes": "نعم، أفرغ السلة",
+    "cancel": "إلغاء"
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "الصفحة التي تبحث عنها غير موجودة.",
+    "goHome": "الذهاب إلى المنتجات"
+  },
+  "errorBoundary": {
+    "title": "حدث خطأ ما",
+    "description": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+    "retry": "إعادة المحاولة"
+  },
+  "languagesShort": {
+    "en": "EN",
+    "ar": "ع"
+  },
+  "hero": {
+    "eyebrow": "منتجات مميزة، حياة أفضل",
+    "titleStart": "اكتشف منتجات عالية الجودة",
+    "titleHighlight": "لحياتك",
+    "subtitle": "اعثر على أفضل المنتجات في الإلكترونيات والأزياء والمنزل وغيرها. تسوّق بذكاء وعِش بشكل أفضل.",
+    "cta": "تسوّق الآن",
+    "noteLine1": "اختياراتنا المميزة",
+    "noteLine2": "خصيصاً لك"
+  }
+}

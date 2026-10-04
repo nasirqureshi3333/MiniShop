@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "title": "Mini Shop",
+    "description": "Browse, search and shop our product catalog."
+  },
+  "header": {
+    "storeName": "Mini Shop",
+    "products": "Products",
+    "cart": "Cart",
+    "cartLabel": "{count, plural, =0 {Cart, empty} one {Cart, # item} other {Cart, # items}}",
+    "languageLabel": "Language",
+    "skipToContent": "Skip to content"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "catalog": {
+    "title": "Products",
+    "subtitle": "Discover our latest products.",
+    "resultsCount": "{count, plural, =0 {No products} one {# product} other {# products}}",
+    "updating": "Updating results…"
+  },
+  "filters": {
+    "label": "Filter products",
+    "search": "Search",
+    "searchPlaceholder": "Search by product name…",
+    "category": "Category",
+    "allCategories": "All categories",
+    "sort": "Sort by",
+    "sortDefault": "Featured",
+    "sortAsc": "Price: Low to High",
+    "sortDesc": "Price: High to Low",
+    "priceRange": "Price range",
+    "minPrice": "Min price",
+    "maxPrice": "Max price",
+    "apply": "Apply",
+    "clear": "Clear filters",
+    "invalidPrice": "Prices must be zero or greater.",
+    "invalidRange": "Minimum price cannot be greater than maximum price.",
+    "minPlaceholder": "Min",
+    "maxPlaceholder": "Max"
+  },
+  "product": {
+    "viewDetails": "View Details",
+    "addToCart": "Add to Cart",
+    "added": "Added to cart",
+    "maxInCart": "Max in cart",
+    "outOfStock": "Out of stock",
+    "inStock": "In stock ({count} available)",
+    "lowStock": "Only {count} left",
+    "inCart": "{count} in cart",
+    "category": "Category",
+    "price": "Price",
+    "availability": "Availability",
+    "description": "Description",
+    "backToProducts": "Back to Products",
+    "imageUnavailable": "Image unavailable",
+    "hoverToZoom": "Hover to zoom",
+    "inStockShort": "In stock",
+    "detailsTitle": "Product details"
+  },
+  "states": {
+    "loading": "Loading…",
+    "emptyTitle": "No products found",
+    "emptyDescription": "Try a different search term or adjust your filters.",
+    "errorTitle": "Something went wrong",
+    "retry": "Try again",
+    "networkError": "We couldn’t reach the server. Please check your connection and try again.",
+    "invalidRequest": "Some filters in this link are invalid. Clear them to see all products.",
+    "serverError": "The server ran into a problem. Please try again in a moment."
+  },
+  "productNotFound": {
+    "title": "Product not found",
+    "description": "The product you’re looking for doesn’t exist or may have been removed."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "itemCount": "{count, plural, =0 {No items} one {# item} other {# items}}",
+    "emptyTitle": "Your cart is empty",
+    "emptyDescription": "Looks like you haven’t added anything yet.",
+    "continueShopping": "Continue shopping",
+    "summary": "Order summary",
+    "totalItems": "Total items",
+    "subtotal": "Subtotal",
+    "subtotalPending": "Calculating…",
+    "quantity": "Quantity",
+    "increase": "Increase quantity of {name}",
+    "decrease": "Decrease quantity of {name}",
+    "remove": "Remove",
+    "removeItem": "Remove {name} from cart",
+    "eachPrice": "{price} each",
+    "unavailable": "This product is no longer available.",
+    "itemError": "We couldn’t load this item.",
+    "clear": "Clear cart",
+    "checkoutNote": "Checkout is not part of this demo.",
+    "unavailableExcluded": "Unavailable items are not included in the total.",
+    "removeUnavailable": "Remove unavailable items",
+    "clearConfirm": "Remove all items from your cart?",
+    "clearConfirmYes": "Yes, clear cart",
+    "cancel": "Cancel"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you’re looking for doesn’t exist.",
+    "goHome": "Go to products"
+  },
+  "errorBoundary": {
+    "title": "Something went wrong",
+    "description": "An unexpected error occurred. Please try again.",
+    "retry": "Try again"
+  },
+  "languagesShort": {
+    "en": "EN",
+    "ar": "ع"
+  },
+  "hero": {
+    "eyebrow": "Premium products, better living",
+    "titleStart": "Discover Quality Products for",
+    "titleHighlight": "Your Life",
+    "subtitle": "Find the best products across electronics, fashion, home and more. Shop smart. Live better.",
+    "cta": "Shop Now",
+    "noteLine1": "Top Picks",
+    "noteLine2": "Just for You"
+  }
+}

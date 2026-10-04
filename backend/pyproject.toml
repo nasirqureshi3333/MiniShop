@@ -1,0 +1,10 @@
+[project]
+name = "mini-ecommerce-api"
+version = "1.0.0"
+description = "Bilingual (English / Arabic) product catalog API built with FastAPI."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = ["error"]
